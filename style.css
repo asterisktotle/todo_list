@@ -159,10 +159,14 @@ label {
 	}
 	.taskDiv {
 		font-size: 1rem;
+		margin-left: 1rem;
+		padding-inline: -2rem;
+		margin-right: -0.5rem;
 	}
 	.btn-delete {
 		font-size: small;
 		flex: 1;
+		margin-right: -2rem;
 	}
 
 	.filter-type,
